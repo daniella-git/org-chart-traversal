@@ -8,13 +8,13 @@
 <p>1. Clone the repository</p>
 
 ```
-git clone https://github.com/daniella-git/org-hierarchy-traversal.git
+git clone https://github.com/daniella-git/org-chart-traversal.git
 ```
 
 <p>2. Navigate to directory</p>
 
 ```
-cd org-hierarchy-traversal
+cd org-chart-traversal
 ```
 
 <p>3. Run the program</p>
